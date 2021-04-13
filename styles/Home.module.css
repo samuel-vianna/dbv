@@ -16,6 +16,15 @@
   background-color: rgba(0,0,0,0.1);
 }
 
+.main{
+  text-align: center;
+}
+
+#logo{
+  height: 25vh;
+  border-radius: 50%;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
